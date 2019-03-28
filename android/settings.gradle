@@ -1,0 +1,3 @@
+rootProject.name = 'TriisaRN'
+
+include ':app'
