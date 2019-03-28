@@ -24,5 +24,5 @@ Muutatused rakenduse terviklikumaks muutmise nimel.
 
     Lisasin rakendusele kujundust, kasutasin kujunduse jaoks stylesheeti, tõstsin vaated eraldi failidesse, lisasin täringu veeretamise funktsionaalsuse.
 
-![alt text](https://github.com/TTriisa/TriisaRN/blob/master/screenshot1.png)
-![alt text](https://github.com/TTriisa/TriisaRN/blob/master/screenshot2.png)
+![alt text](https://github.com/TTriisa/TriisaRN/blob/master/Screenshot1.png)
+![alt text](https://github.com/TTriisa/TriisaRN/blob/master/Screenshot2.png)
